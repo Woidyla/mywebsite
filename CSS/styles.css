@@ -48,7 +48,7 @@
 
   .abmetxt {
     grid-area: auto;
-    background-image: url("honeycomb.png");
+    background-image: url("https://github.com/Woidyla/mywebsite/blob/7adff29f3d6389caa9a2cc9f13d253fe0f510267/Media/honeycomb.png");
     background-color: rgba(255, 255, 255, 0.549);
     border-radius: 10px;
     max-width: 1000px;
