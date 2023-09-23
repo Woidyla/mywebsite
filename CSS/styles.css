@@ -114,8 +114,8 @@
 
   .container {
     display: grid;
-    width: 100%;
-    min-height: calc(100vh - 4.25rem);
+    width: 100px;
+    min-height: 10px;
     place-content: center;
     gap: 1rem;
     text-align: center;
