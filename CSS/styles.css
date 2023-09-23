@@ -101,8 +101,9 @@ margin: auto !important;
 
 .projects {
 display: flex;
-height: 300;
+height: 300px;
 flex-direction: row;
+width: 1000px;
 }
 
 .p2 {
