@@ -99,6 +99,26 @@ margin: auto !important;
 }
 }
 
+.projects {
+display: flex;
+height: 300;
+flex-direction: row;
+}
+
+.p2 {
+align: center;
+padding: 10px;
+}
+
+.p3 {
+align: center;
+padding: 10px;
+}
+
+.p4 {
+align: center;
+padding: 10px;
+}
 
 *, *::before, *::after {
 box-sizing: border-box;
