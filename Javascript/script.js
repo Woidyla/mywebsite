@@ -9,7 +9,7 @@ function toggleMode() {
     'Dark Mode' 
     : "Light Mode"
 
-  modeStatus.innerText = "Currently in " + modeMessage;
+  modeStatus.innerText = modeMessage;
 }
 
 modeToggle.addEventListener('click', toggleMode);
