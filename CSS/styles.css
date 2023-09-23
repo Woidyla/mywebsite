@@ -110,7 +110,7 @@
   .container {
     display: grid;
     width: 800px;
-    height: 200px;
+    height: 100px;
     place-content: center;
     gap: 1rem;
     text-align: center;
